@@ -233,6 +233,14 @@ border-radius: 4px;
 .features-item:not(:last-child) {
     margin-right: 30px;
 }
+.features-thumb {
+    text-align: center;
+    margin-bottom: 30px;
+    padding: 25px 100px;
+    background-color: var(--secondary-bgcolor);
+}
+
+
 .features-item-title {
     margin-bottom: 10px;
     font-weight: 700;
