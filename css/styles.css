@@ -144,6 +144,10 @@ line-height: 1.19;
      display: flex;
      margin-left: auto;
  }
+ .contacts-item {
+     display: inline-flex;
+     align-items: center;
+ }
  .contacts-link {
      display: block;
     padding: 32px 0;
